@@ -34,7 +34,7 @@ npm run build --report
 ```
 ## 项目截图
 
-<img src="http://chuantu.xyz/t6/702/1564911361x1033347913.png" width=33% height=33%>
-<img src="http://chuantu.xyz/t6/702/1564911407x1031866013.png" width=33% height=33%>
-<img src="http://chuantu.xyz/t6/702/1564911441x1031866013.png" width=33% height=33%>
+<img src="http://chuantu.xyz/t6/702/1564911361x1033347913.png">
+<img src="http://chuantu.xyz/t6/702/1564911407x1031866013.png">
+<img src="http://chuantu.xyz/t6/702/1564911441x1031866013.png">
 
