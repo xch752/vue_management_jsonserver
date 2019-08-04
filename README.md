@@ -1,6 +1,6 @@
 # vue_management_jsonserver
 
-> vue+vue-router+vue-resource+jsonserver
+> vue+vue-router+vue-resource+bootstrap+jsonserver
 
 ## 服务端(使用jsonserver)
 
