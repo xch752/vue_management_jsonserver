@@ -1,14 +1,28 @@
 # vue_management_jsonserver
 
-> A Vue.js project
+> vue+vue-router+vue-resource+jsonserver
 
-## Build Setup
+## 服务端(使用jsonserver)
 
 ``` bash
-# install dependencies
+# cd JSONSERVER(进入JSONSERVER目录)
+cd JSONSERVER
+
+# install dependencies(安装依赖)
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:3000(服务端监听在localhost:3000)
+npm run json:server
+
+```
+
+## 客户端(使用vue)
+
+``` bash
+# install dependencies(安装依赖)
+npm install
+
+# serve with hot reload at localhost:8080(客户端运行在localhost:8080)
 npm run dev
 
 # build for production with minification
@@ -16,6 +30,8 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
-```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+```
+##项目截图
+
+
